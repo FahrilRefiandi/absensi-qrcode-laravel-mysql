@@ -1,0 +1,41 @@
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background:#7d8a80 ;
+    border-radius: 0;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #5f6b62;
+  }
+
+.barcode{
+    background: #ffffff;
+    border-radius: 6%;
+    box-shadow: 9.61px 9.61px 70px #8B8B8B, -9.61px -9.61px 70px #FFFFFF;
+}
+
+.barcode svg{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+@media only screen
+and  (max-device-width : 520px){
+    .anouncement{
+        display: none;
+    }
+}
