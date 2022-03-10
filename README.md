@@ -8,7 +8,8 @@
 </p>
 
 ## Demo
-
+<img src="https://raw.githubusercontent.com/FahrilRefiandi/absensi-qrcode-laravel-mysql/main/public/demo/demo1.png" alt="demo1">
+<img src="https://raw.githubusercontent.com/FahrilRefiandi/absensi-qrcode-laravel-mysql/main/public/demo/demo2.png" alt="demo2">
 
 ## Learning Laravel
 
