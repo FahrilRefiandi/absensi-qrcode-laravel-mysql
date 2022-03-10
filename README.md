@@ -64,13 +64,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Absensi-App-QrCode-Laravel
-# Absensi-App-QrCode-Laravel
-# Web-App-Absensi-Qr-Code-Laravel-8-Mysql
-# Web-App-Absensi-Qr-Code-Laravel-8-Mysql
-# Web-App-Absensi-Qr-Code-Laravel-8-Mysql
-# AbsensiQrCode
-# AbsensiQrCodeLaravel
-# AbsensiQrCodeLaravel
-# AbsensiQrCodeLaravel
-# AbsensiQrCodeLaravel
+
+# absensi-qrcode-laravel-mysql
